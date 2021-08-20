@@ -1,3 +1,13 @@
+# About this project
+
+This is a simple web application using ReactJS + Material UI for frontend and NodeJS + Mysql for backend.
+The application can do CREATE, RETRIEVE, UPDATE, and DELETE.
+
+Sample UI:
+![image](https://user-images.githubusercontent.com/17314437/130233116-752a63c7-b5f2-4481-8d0e-6b33f3c0f5ec.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
