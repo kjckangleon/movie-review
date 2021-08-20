@@ -150,29 +150,6 @@ function App() {
             handleDelete={handleDelete}
             handleUpdate={handleUpdate}
             />
-            // <div className="form" key={val.id}>
-            //   <h1>Movie Name: {updateFlag ? movie_name : val.movie_name}</h1>
-            //   <h1>Review: {updateFlag ? movie_review : val.movie_review}</h1>
-            //   {
-            //     updateFlag ? 
-            //       ''
-            //       : 
-            //       <Grid 
-            //         container
-            //         direction="column"
-            //         justifyContent="center"
-            //         alignItems="center"
-            //         spacing={1}
-            //         >
-            //           <Grid item>
-            //             <Button color="secondary" variant="contained" onClick={() => handleDelete(val)}>Delete</Button>
-            //           </Grid>
-            //           <Grid item>
-            //             <Button color="primary" variant="contained" onClick={() => handleUpdate(val)}>{ updateFlag ? 'Save' : ' Update'}</Button>
-            //           </Grid>
-            //       </Grid>
-              // }
-            // </div> 
           ); 
         })
        }
